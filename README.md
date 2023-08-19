@@ -4,8 +4,9 @@ This is the our final project created for Microsoft Future Ready Talent Virtual 
 
 # [Medpill Healthcare Website with Healthbot]()
 
-Project Link :https://abhishdas.github.io/Future-Ready-Talent/
 Project Link :https://lively-mushroom-0e6116a10.3.azurestaticapps.net/
+
+Project Link :https://abhishdas.github.io/Future-Ready-Talent/
 
 Demo Video :
 

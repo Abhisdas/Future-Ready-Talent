@@ -1,4 +1,4 @@
-![screencapture-127-0-0-1-5500-healthbot-html-2023-08-20-02_38_36](https://github.com/Abhishdas/Future-Ready-Talent/assets/110592131/881c8a5c-bda8-4682-a141-8ba3618d3690)# Microsoft-Future-Ready-Talent-Virtual-Internship-Project
+# Microsoft-Future-Ready-Talent-Virtual-Internship-Project
 
 This is the our final project created for Microsoft Future Ready Talent Virtual Internship Program.
 
@@ -38,8 +38,6 @@ The Medpill website is a platform that offers numerous medical services online. 
 ![screencapture-127-0-0-1-5500-index-html-2023-08-20-02_36_38](https://github.com/Abhishdas/Future-Ready-Talent/assets/110592131/abba0382-fc11-4666-8e0a-dc75c4273a5f)
 ![screencapture-127-0-0-1-5500-contact-html-2023-08-20-02_37_10](https://github.com/Abhishdas/Future-Ready-Talent/assets/110592131/3601e57f-5d47-4723-a5c9-b27279eb5362)
 ![screencapture-127-0-0-1-5500-services-html-2023-08-20-02_37_29](https://github.com/Abhishdas/Future-Ready-Talent/assets/110592131/19695d64-ec11-434b-844e-ccd36ff36e3a)
-
-
 
 ### Healthbot Screenshots:
 ![screencapture-127-0-0-1-5500-healthbot-html-2023-08-20-02_38_36](https://github.com/Abhishdas/Future-Ready-Talent/assets/110592131/90531704-0577-4209-8c71-a9f924d036d9)

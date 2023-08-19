@@ -35,8 +35,11 @@ The Medpill website is a platform that offers numerous medical services online. 
 
 
 ### Screenshots :
-![screencapture-127-0-0-1-5500-index-html-2023-08-20-02_36_38](https://github.com/Abhishdas/Future-Ready-Talent/assets/110592131/abba0382-fc11-4666-8e0a-dc75c4273a5f)
-![screencapture-127-0-0-1-5500-contact-html-2023-08-20-02_37_10](https://github.com/Abhishdas/Future-Ready-Talent/assets/110592131/3601e57f-5d47-4723-a5c9-b27279eb5362)
+<img width="960" alt="1 1" src="https://github.com/Abhishdas/Future-Ready-Talent/assets/110592131/c7fa082c-e60f-4be7-a871-4c639b79582d">
+<img width="960" alt="1 2" src="https://github.com/Abhishdas/Future-Ready-Talent/assets/110592131/0012975e-872b-495d-a59c-9a5852edccc2">
+<img width="958" alt="1 3" src="https://github.com/Abhishdas/Future-Ready-Talent/assets/110592131/70b2e538-ae93-4948-abcc-0fcce50db1f7">
+
+
 
 ### Healthbot Screenshots:
 ![screencapture-127-0-0-1-5500-healthbot-html-2023-08-20-02_38_36](https://github.com/Abhishdas/Future-Ready-Talent/assets/110592131/90531704-0577-4209-8c71-a9f924d036d9)
